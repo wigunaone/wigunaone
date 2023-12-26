@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KurniaseptiaWiguna
-wigunaone
+- 👋 Hi, I’m @wigunaone
+
 
 <!---
 KurniaseptiaWiguna/KurniaseptiaWiguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
